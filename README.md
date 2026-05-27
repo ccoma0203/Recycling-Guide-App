@@ -31,6 +31,7 @@ Not just "yes or no", but actionable solutions when it can't be recycled as-is.
 
 ### Phase 2 — Core Features
 - [ ] Snap a photo → identify item → determine recyclability
+- [ ] Recognize recycling labels printed on items (e.g. PET, VINYL, GLASS) — apply label first, fall back to AI image recognition if no label found
 - [ ] Clear result display: ✅ Recyclable / ❌ Not recyclable
 - [ ] Text input UI as fallback when image recognition fails
 - [ ] Region selection (GPS or manual) to apply local recycling rules
